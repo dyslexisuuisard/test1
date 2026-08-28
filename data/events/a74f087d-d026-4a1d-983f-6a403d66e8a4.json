@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "2881a7c5-f72d-4834-a9c0-3337dddfc233": {
+      "label": "Film 1",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=J-ZDESCVt9I&ab_channel=JamesBradfordHuston",
+      "duration": 616
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Suspense Film",
+  "created_at": "2026-08-28T07:50:25.196Z",
+  "created_by": "dyslexisuuisard",
+  "updated_at": "2026-08-28T07:50:25.196Z",
+  "updated_by": "dyslexisuuisard"
+}
