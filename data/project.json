@@ -6,7 +6,13 @@
     "publish_iso_date": "",
     "include_slug_in_base": true
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "dyslexisuuisard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161783037?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "dyslexisuuisard",
     "is_private": false,
@@ -24,6 +30,27 @@
       "tags": []
     },
     "created_at": "2026-08-28T07:35:53.155Z",
-    "updated_at": "2026-08-28T07:35:53.155Z"
-  }
+    "updated_at": "2026-08-28T07:35:53.155Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "3aad5133-bf97-4aae-b735-230d2df3cd77": {
+      "content": [],
+      "created_at": "2026-08-28T07:35:53.180Z",
+      "created_by": "dyslexisuuisard",
+      "title": "test1",
+      "updated_at": "2026-08-28T07:35:53.180Z",
+      "updated_by": "dyslexisuuisard",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "3aad5133-bf97-4aae-b735-230d2df3cd77"
+  ]
 }
